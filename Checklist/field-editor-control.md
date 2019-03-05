@@ -62,7 +62,7 @@ Custom code cannot violate any of the following control settings
   <tr>
     <td>&#9744;</td>
     <td>AllowTables</td>
-    <td>Content may contain table-related tags such as <pre><code> <table>, <tr>, and <td> </code></pre>.</td>
+    <td>Content may contain table-related tags such as <samp> <table>, <tr>, and <td> </samp>.</td>
     <td>Example <code>AllowTables="false"</code></td>
   </tr>
   <tr>

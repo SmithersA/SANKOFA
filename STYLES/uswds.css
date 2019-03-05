@@ -427,21 +427,21 @@ th {
   font-family: "Source Serif Pro";
   font-style: normal;
   font-weight: 400;
-  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Regular.woff2") format("woff2"), url("#") format("woff"), url("../#.ttf") format("truetype");
+  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Regular.woff2") format("woff2"), url("#") format("woff"), url("../SITE ASSETS/Fonts/source-serif-pro/TTF/SourceSerifPro-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Source Serif Pro";
   font-style: normal;
   font-weight: 600;
-  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Semibold.woff2") format("woff2"), url("../fonts/merriweather-italic-webfont.woff") format("woff"), url("../fonts/merriweather-italic-webfont.ttf") format("truetype");
+  src: local('Source Serif Pro'), local('SourceSerifPro-Semibold'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Semibold.woff2") format("woff2"), url("#") format("woff"), url("../SITE ASSETS/Fonts/source-serif-pro/TTF/SourceSerifPro-Semibold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Source Serif Pro";
   font-style: normal;
   font-weight: 700;
-  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url(" ") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Bold.woff2") format("woff2"), url("../fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/merriweather-bold-webfont.ttf") format("truetype");
+  src: local('Source Serif Pro'), local('SourceSerifPro-Bold'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Bold.woff2") format("woff2"), url("#") format("woff"), url("../SITE ASSETS/Fonts/source-serif-pro/TTF/SourceSerifPro-Bold.ttf") format("truetype");
 }
 
 /* stylelint-enable */

@@ -426,29 +426,22 @@ th {
 @font-face {
   font-family: "Source Serif Pro";
   font-style: normal;
-  font-weight: 300;
-  src: url("#") format("embedded-opentype"), url("../fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/merriweather-light-webfont.ttf") format("truetype");
+  font-weight: 400;
+  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Regular.woff2") format("woff2"), url("#") format("woff"), url("../#.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Source Serif Pro";
   font-style: normal;
-  font-weight: 400;
-  src: url("#") format("embedded-opentype"), url("../fonts/merriweather-regular-webfont.woff2") format("woff2"), url("../fonts/merriweather-regular-webfont.woff") format("woff"), url("../fonts/merriweather-regular-webfont.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "Source Serif Pro";
-  font-style: italic;
-  font-weight: 400;
-  src: url("#") format("embedded-opentype"), url("../fonts/merriweather-italic-webfont.woff2") format("woff2"), url("../fonts/merriweather-italic-webfont.woff") format("woff"), url("../fonts/merriweather-italic-webfont.ttf") format("truetype");
+  font-weight: 600;
+  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url("#") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Semibold.woff2") format("woff2"), url("../fonts/merriweather-italic-webfont.woff") format("woff"), url("../fonts/merriweather-italic-webfont.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Source Serif Pro";
   font-style: normal;
   font-weight: 700;
-  src: url(" ") format("embedded-opentype"), url("../fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/merriweather-bold-webfont.ttf") format("truetype");
+  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url(" ") format("embedded-opentype"), url("../SITE ASSETS/Fonts/source-serif-pro/WOFF2/SourceSerifPro-Bold.woff2") format("woff2"), url("../fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/merriweather-bold-webfont.ttf") format("truetype");
 }
 
 /* stylelint-enable */

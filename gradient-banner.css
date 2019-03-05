@@ -2,7 +2,7 @@
 	height: 180px;
 	width: 952px;
 	background: linear-gradient(125.99deg, #1674A6 0%, #5F1256 100%);
-	background-image: url("SITE ASSETS/Images/sankofa-pattern.png") repeat-x;      
+	/* add background pattern */      
 }
 .office-of-something {
 	height: 113px;

@@ -1,7 +1,17 @@
-This is a development website for NMAAHC's Intranet that builds on USWDS.
+# Open Sans @font-face kit
 
-#### About this repository
-This is a source code repository for the Intranet Design to generate HTML, CSS and store needed assets such as fonts. Viewable with Github Pages.
+I split the SASS file, so the developer can decide which fonts and styles she or he really needs.
 
-#### Why does this repository exist?
-This is a test prototype for SharePoint 2010 pages with custom code
+Installable via [Bower](http://twitter.github.com/bower/):
+```
+bower install open-sans-fontface
+```
+
+## Demo
+__Our repository:__ [http://fontfacekit.github.com/open-sans](http://fontfacekit.github.com/open-sans)
+
+__Google Web Fonts:__ [http://www.google.com/fonts/specimen/Open+Sans](http://www.google.com/fonts/specimen/Open+Sans)
+
+
+## Maintain your own font-face in FontFaceKit
+Contact @gustavohenke if you want to maintain your own font-face in this repository.

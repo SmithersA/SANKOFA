@@ -103,4 +103,4 @@ Custom code cannot violate any of the following control settings
   </tr>
 </table>
 
-#### More information can be found [How to: Customize the SharePoint HTML Editor Field Control (ECM)](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ms561507(v%3doffice.14))
+#### More examples and information can be found [How to: Customize the SharePoint HTML Editor Field Control (ECM)](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ms561507(v%3doffice.14))
